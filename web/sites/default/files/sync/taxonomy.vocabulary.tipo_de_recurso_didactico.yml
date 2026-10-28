@@ -1,9 +1,0 @@
-uuid: fb13f776-7ad2-416f-88e4-496ffcdd523a
-langcode: en
-status: true
-dependencies: {  }
-name: 'Tipo de recurso didáctico'
-vid: tipo_de_recurso_didactico
-description: null
-weight: 0
-new_revision: false
