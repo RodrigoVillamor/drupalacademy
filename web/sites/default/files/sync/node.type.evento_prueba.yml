@@ -1,0 +1,18 @@
+uuid: 78d2e7a7-b0c8-4d57-a63a-350751dd65fa
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: 'Evento de prueba'
+type: evento_prueba
+description: 'Tipo de contenido para probar el campo de rango de fechas.'
+help: null
+new_revision: true
+preview_mode: 1
+display_submitted: true

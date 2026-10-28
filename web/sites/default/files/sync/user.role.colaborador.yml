@@ -1,0 +1,9 @@
+uuid: d9538839-2a8c-428b-93f2-7e7345c2c600
+langcode: en
+status: true
+dependencies: {  }
+id: colaborador
+label: Colaborador
+weight: 4
+is_admin: false
+permissions: {  }
